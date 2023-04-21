@@ -1,0 +1,8 @@
+my_aws_region = "us-east-1"
+my_access_key = "AKIAQ7467NNBNYWYDTNN"
+my_secret_key = "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"
+my_domain_name = "prasad.com"
+my_web_sub_domain_name = "web"
+my_mail_sub_domain_name = "mail"
+my_local_aws_private_key_path = "C:/Users/saipr/Downloads/terraform.pem"
+my_key_name = "terraform"
